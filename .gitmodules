@@ -1,0 +1,6 @@
+[submodule "GiantIsopod-Front"]
+	path = GiantIsopod-Front
+	url = https://github.com/Mloser-z/GiantIsopod-Front.git
+[submodule "GiantIsopod-Back"]
+	path = GiantIsopod-Back
+	url = https://github.com/Mloser-z/GiantIsopod-Back.git
